@@ -1,5 +1,5 @@
 # hawkes-moments
-This repository contains Maple, Mathematica and SageMath codes for the computation of the (multidimensional joint) moments and cumulants of all orders of Hawkes processes with exponential kernel, as described in the references below. 
+This repository contains Maple, Mathematica and SageMath codes for the computation of the (multidimensional joint) moments and cumulants of all orders of Hawkes processes with exponential kernels, as described in the references below. 
 
 Some of the codes also apply to the computation of moments and cumulants of stochastic integrals of deterministic functions with respect to (multidimentional) Hawkes processes.
 
